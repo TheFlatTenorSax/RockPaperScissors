@@ -1,3 +1,5 @@
+# Rock, Paper, Scissors
+
 Your typical non-insulting Rock Paper Scissors game.
 
 Follow prompts from the terminal.
